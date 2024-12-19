@@ -28,7 +28,7 @@ The Data Privacy Vault is a Go-based application that tokenizes sensitive data, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/data-privacy-vault.git
+   git clone https://github.com/elmaraliyevdev/data-privacy-vault.git
    cd data-privacy-vault
    ```
 2. Run the application:
